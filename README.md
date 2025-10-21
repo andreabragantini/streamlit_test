@@ -18,3 +18,6 @@ Images and other media can be located in the same directory and added to the cod
 `css` files are used for web development and contains information about the style (margins, colors, etc). Edit at your own risk.
 
 The `.streamlit` directory contains a file storing **theme settings** for streamlit, which is quite easy to edit to change the aspect of the web app.
+
+This application is hosted on GitHub and deployed via Streamlit Community Cloud. You can access it here: [Streamlit App](https://andreabragantini-streamlit-test-streamlit-app-8euq4l.streamlit.app/).
+*Note: The app may enter a sleep state after periods of inactivity and could take a few moments to wake up when first accessed.*
